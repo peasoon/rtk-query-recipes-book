@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "makaronea",
+      "img": "https://placehold.co/600x400?text=%D0%BC%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%BD%D1%8B",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, ligula eu feugiat tempor, ipsum ipsum ultricies tellus, quis porta ex turpis at lacus. Nullam id convallis nunc. Ut auctor, metus eget gravida hendrerit, dui nisl tincidunt lectus, at dictum sem leo laoreet neque. Maecenas vel porta lacus. Sed pellentesque nisl sapien, a posuere justo convallis id. Aliquam eget mollis nulla, vitae egestas elit. Sed hendrerit lobortis neque, vitae imperdiet leo fermentum ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "title": "cumlet",
+      "img": "https://placehold.co/600x400?text=%D0%BE%D0%BC%D0%BB%D0%B5%D1%82",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tincidunt tristique massa quis sollicitudin. Vivamus aliquam ultrices arcu, eget tempor nisi viverra in. Cras laoreet vel lacus non porttitor. Fusce molestie elit aliquet fermentum ultrices. Nunc at odio tellus. Phasellus cursus tortor ex. Sed sodales, ex eget auctor blandit, diam nunc faucibus dolor, eget tempor nulla massa at orci. Vestibulum sed odio risus. Proin at lorem at risus dapibus eleifend sed ac erat. Nam quis lacus massa. Suspendisse potenti. Mauris bibendum libero lobortis bibendum molestie. Donec auctor iaculis mauris id imperdiet. Praesent consectetur nunc nec sodales viverra."
+    },
+    {
+      "id": 3,
+      "title": "kasha-malasha",
+      "img": "https://placehold.co/600x400?text=%D0%BC%D0%B0(%D0%BC)%D0%BD%D0%BA%D0%B0",
+      "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum magna, eleifend at lobortis at, ornare ac felis. Ut vitae felis mollis, congue nibh in, viverra est. Quisque ac nibh eget augue pellentesque sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat risus non risus tristique rutrum. Duis sodales vitae turpis id blandit. Nunc at aliquet erat. Maecenas congue, ex nec euismod interdum, tortor lectus rhoncus dui, vel egestas mi arcu sed nunc. Suspendisse tellus massa, ornare ac faucibus et, eleifend a mauris."
+    }
+  ]
+}
