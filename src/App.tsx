@@ -3,8 +3,9 @@ import RecipesList from "./components/RecipesList";
 function App() {
   return (
     <>
-      <div>sfdkujhfsdgjkhfsdik</div>
-      <RecipesList />
+      <div className="container">
+        <RecipesList />
+      </div>
     </>
   );
 }
